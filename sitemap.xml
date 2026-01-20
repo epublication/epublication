@@ -1,23 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
         <loc>https://github.com/epublication/epublication-api/wiki/1.-Technical-overview</loc>
-        <lastmod>2006-11-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
+    </sitemap>
+    <sitemap>
         <loc>https://github.com/epublication/epublication-api/wiki/2.-Announcement-API#exporting</loc>
-        <lastmod>2006-11-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
+    </sitemap>
+    <sitemap>
         <loc>https://github.com/epublication/epublication-api/wiki/2.-Announcement-API#importing</loc>
-        <lastmod>2006-11-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-</urlset>
+    </sitemap>
+</sitemapindex>
