@@ -3,6 +3,8 @@ This site provides an overview of the artifacts associated with the ePublication
 
 > [!NOTE]
 > This page provides an overview of the various topics related to ePublication. At present, the concepts are described in theory. However, initial technical access will be activated on March 23, 2026.
+>
+> Information about the API can be found in [this repository](https://github.com/epublication/epublication-api).
 
 ## Harmonization of Swiss Official Publications
 
@@ -25,6 +27,7 @@ The provider standardizes a complete catalog of all announcement elements (annou
 
 <img width="789" height="594" alt="image" src="https://github.com/user-attachments/assets/e53c77c8-7baf-4d58-8cec-39737cbf1a5d" />
 
+## Glossary ##
 It is important to clarify a few terms. These individual terms are briefly described below.
 
 **Announcement type**
@@ -52,24 +55,4 @@ It is important to clarify a few terms. These individual terms are briefly descr
 - Each announcement has at least one topic.
 - Announcements can be filtered by topic on the platform.
 
-```mermaid
 
-%%{
-  init: {
-    'theme': 'neutral'
-  }
-}%%
-
-block
-columns 6
-create["Create
-announcement"]:2
-publish["Publish
-announcement"]:2
-find["Find
-announcement"]:2
-authentification_authorisation["Authentification
-and Authorisation"]:2
-configure["Configure gazette"]:2
-operate["Operations"]:2
-```
