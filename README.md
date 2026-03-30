@@ -19,7 +19,8 @@ The State Secretariat for Economic Affairs SECO is responsible for operating the
 
 Each announcement is therefore based on an announcement type from the respective gazette. Consumers have no responsibility—they obtain the announcements via the gazettes.
 
-<img width="732" height="457" alt="image" src="https://github.com/user-attachments/assets/30c5914d-07b8-4de2-ba65-7d933ee7161a" />
+<img width="1412" height="896" alt="image" src="https://github.com/user-attachments/assets/7ea2a3ea-267a-4939-8b59-a460dd605825" />
+
 
 
 ### Why harmonization is important
@@ -27,7 +28,8 @@ Harmonization and standardization allows announcements to be found using uniform
 The provider standardizes a complete catalog of all announcement elements (announcement element catalog) and uses it to model all possible announcement types (announcement type catalog). Editors select the announcement types that are suitable for their gazette and can configure them individually as needed. Publishing entities use the configured announcement types as the basis for their announcements. Announcement types are the publication templates for the announcements.
 
 
-<img width="789" height="594" alt="Meldungsstandard_en" src="https://github.com/user-attachments/assets/73ee01ee-63f4-4a7b-a2f1-cf1b734b20f0" />
+<img width="1086" height="817" alt="Standard_EN (002)" src="https://github.com/user-attachments/assets/f7a70a64-0f80-4d16-acbe-dfaa486801c2" />
+
 
 
 ## Glossary ##
