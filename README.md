@@ -1,12 +1,13 @@
 # Overview
-This site provides an overview of the artifacts associated with the ePublication platform, formerly know as "official gazettes portal".
+This site provides an overview of the artifacts associated with the ePublication platform.
 
 > [!NOTE]
-> This page provides an overview of the various topics related to ePublication. At present, the concepts are described in theory. However, initial technical access will be activated on March 23, 2026.
+> This page provides an overview of the various topics related to ePublication. 
 >
 > Information about the API can be found in [this repository](https://github.com/epublication/epublication-api).
 
 ## Harmonization of Swiss Official Publications
+To gain a deeper understanding of the idea behind the efforts to harmonize official publications, it is important to understand the responsibilities of the respective parties. The primary objective is to ensure that each editor maintains control over its own data. In keeping with Switzerland’s federal system, this should also take into account cantonal and municipal specificities.
 
 ### Responsibilities
 The State Secretariat for Economic Affairs SECO is responsible for operating the platform. Editors use it for publication of their gazettes, in which announcements are published by publishing entities. These three main players have different roles:
